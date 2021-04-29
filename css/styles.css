@@ -1,0 +1,80 @@
+.body {
+  padding: 0;
+  margin: 0;
+}
+
+/* jumbotron */
+.jumbotron {
+  background-color: rgb(193, 199, 185);
+}
+
+/* CSS slider */
+.container {
+  margin-bottom: 50px;
+  background-color: rgb(193, 199, 185);
+}
+.container h2 {
+  text-align: center;
+  text-decoration: rgb(218, 212, 203);
+}
+
+/* pagination */
+.Buttom .paginator {
+  margin-top: 255px;
+  background-color: wheat;
+}
+
+/* footer */
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(193, 199, 185);
+  color: white;
+  text-align: center;
+}
+
+/* page siklus */
+.tittle {
+  margin-top: 55px;
+}
+
+.video-player {
+  position: relative;
+  width: 150%;
+  height: 50%;
+}
+
+/* simulasi */
+
+.box {
+  margin-top: 25px;
+  margin-left: 350px;
+  width: 650px;
+  height: 500px;
+  position: -ms-page;
+  top: 50%;
+  bottom: 50%;
+  border-radius: 15px;
+  background-color: rgb(193, 199, 185);
+}
+
+.box .button-group {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.Buttom {
+  margin-top: 50px;
+}
+
+/* Note Siklus */
+.artikel {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  text-align: center;
+}
+
+.img-siklus {
+  margin-bottom: 45px;
+}
